@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=svetoslavss" alt="svetoslavss" /></a> </p>
 
-- 🌱 I’m currently learning **Jenkins, terraform, cloud**
+- 🌱 I’m currently learning in SOFTWARE UNIVERSITY about **Github Actions , Automation testing for CI/CD pipeline, Jenkins and cloud**
 
 - 👨‍💻 All of my backend projects are available at [https://github.com/Svetoslavss](https://github.com/Svetoslavss)
 
