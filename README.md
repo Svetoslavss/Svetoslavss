@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Svetoslav Stoyanov</h1>
 <h3 align="center">A passionate backend and devOps developer</h3>
 
-![image](https://github.com/user-attachments/assets/e65c4b89-612b-4a4e-9a79-390799c21fb8)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=svetoslavss&label=Profile%20views&color=0e75b6&style=flat" alt="svetoslavss" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=svetoslavss" alt="svetoslavss" /></a> </p>
